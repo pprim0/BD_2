@@ -1,0 +1,1 @@
+Based on the database created to support the information system for managing music festivals, the second part of the project calls for the development of optimisations and, on top of the optimised relational model, the creation of automations, a set of searches and a web-based prototype (HTML/PHP) to demonstrate the system.
